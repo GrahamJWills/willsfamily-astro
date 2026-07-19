@@ -71,7 +71,9 @@ The women took Arthur aboard, and the body of Sir Osgar was brought to the boat 
 
 And Damian looked at Morgan, and Morgan looked at him, and she held out her hand, and he took it, and stepped into the boat. As the boat moved away and the shapes aboard were nearly lost to the fog --- Arthur sat up and embraced the two knights  and the mist closed over the water entirely, and the lake was empty, and there was no one left to see it.
 
-They lie now in the tomb below Avalon, all three of them, awaiting the hour that Britain shall need them again. For men say in many parts of England that King Arthur is not dead, but was carried by the will of Our Lord into another place; and men say that he shall come again. I will not say that it shall be so, but rather I will say: here in this world he changed his life. Yet many men say that there is written upon his tomb this verse: **Hic Iacet Arthurus, Rex Quondam, Rexque Futurus**.
+They lie now in the tomb below Avalon, all three of them, awaiting the hour that Britain shall need them again. For men say in many parts of England that King Arthur is not dead, but was carried by the will of Our Lord into another place; and men say that he shall come again. I will not say that it shall be so, but rather I will say: here in this world he changed his life. Yet many men say that there is written upon his tomb this verse: 
+
+**Hic Iacet Arthurus, Rex Quondam, Rexque Futurus**.
 
 And thus Sir Bedivere, with the hermit that had once been Archbishop of Canterbury, lived at this site in prayer and fasting and in holy works; and thither came Sir Bedivere and put upon himself poor clothes, and served the hermit full lowly in fasting and in prayers. And thus they lived in their prayers and fastings and great abstinence. And when Queen Guenever understood that King Arthur was slain and all the noble knights, then she stole away with five ladies with her, and so she went to Amesbury, and there she let make herself a nun, and wore white clothes and black, and great penance she took. If she ever met her erstwhile lover, Sir Hywel, again, this story does not speak of it.
 
