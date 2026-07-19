@@ -5,7 +5,7 @@ publishDate: 17 July 2026
 description: The final session of four years of play of The Great Pendragon Campaign
 ---
 
-![Logo for My Pendragon TTRPG Game](/assets/blog/Pendragon Logo.jpg)
+<img src="/assets/blog/Pendragon Logo.png" alt="Logo for My Pendragon TTRPG Game" style="float: left; width: 300px; height: 300px; object-fit: cover; margin: 0 1.5em 1em 0;" />
 
 # HERE IS TOLD THE BATTLE OF CAMLANN, AND THE END OF CAMELOT
 
