@@ -1,13 +1,11 @@
 ---
-title: The Battle of Camlann and the End of Camelot
+title: Here is told the Battle of Camlann and the End of Camelot
 slug: pendragon-camlann
 publishDate: 17 July 2026
 description: The final session of four years of play of The Great Pendragon Campaign
 ---
 
 <img src="/assets/blog/Pendragon Logo.png" alt="Logo for My Pendragon TTRPG Game" style="float: left; width: 300px; height: 300px; object-fit: cover; margin: 0 1.5em 1em 0;" />
-
-# HERE IS TOLD THE BATTLE OF CAMLANN, AND THE END OF CAMELOT
 
 And so it befell in the five hundred and sixty-fourth year that King Arthur and Sir Mordred came with their hosts unto the plain of Camlann, and there was the last great battle fought that ever was fought in the realm of Logres, and God in his mercy grant it be the last --- such a battle as was never seen in Britain before nor since, for both sides were full of great knights, and they fought with such ferocity that the ground could not drink the blood fast enough, and the field turned to a red mud beneath their feet.
 
