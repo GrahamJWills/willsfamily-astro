@@ -30,7 +30,7 @@ Here follow the names of those who fell at Camlann in the service of the player 
 -   A war elephant, born to a pair brought back from Rome by the player knights' fathers
 -   Dame Iola, knight in the service of Dame Gweneth
 -   Sir Cynric, beloved husband of Sir Osgar, for whom he suffered a fey curse for three years
--   Dame Alais, knight in the service of Dame Gweneth
+-   Dame Alais, Gweneth's eldest child and knight of Lilystream
 -   Dame Rhonda, knight in the service of Dame Gweneth
 -   Dame Lieru, Saibh's mother, who only came along to keep her safe
 -   Lady Mais'ry, formerly enchanted noble girl, who wanted to see a real battle
